@@ -1,0 +1,15 @@
+{
+    "users" : { 
+        "idUser" : 1,
+        "noTri" : 6289524131333,
+        "photoProfile" : "profile.jpg",
+        "namaPemilik" : "RadenA",
+        "Tipe_Kartu" : "Prepaid"
+    },
+    "dataPulsa" : {
+        "pulsaUtama" : 500,
+        "pulsaLainnya" : 0
+    }
+
+    
+}
